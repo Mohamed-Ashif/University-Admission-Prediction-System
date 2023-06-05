@@ -3,7 +3,7 @@
 
 This project is a Flask web application that predicts the likelihood of admission to a university based on various factors using machine learning. The application provides a user-friendly interface where users can enter their academic details and get an estimate of their chances of being accepted into a university.
 
-![Screenshot 2023-06-05 153540](https://github.com/Mohamed-Ashif/University-Admission-Prediction-System/assets/78372127/6308a8c8-2eb5-4ca5-b79e-b6f56cc983c4)
+![images](https://github.com/Mohamed-Ashif/University-Admission-Prediction-System/assets/78372127/09f89d6a-577f-4152-b8c6-b8be1864c4a9)
 
 ## Dataset
 
