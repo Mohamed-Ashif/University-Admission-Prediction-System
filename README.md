@@ -1,5 +1,5 @@
 
-# University Admuission Prediction Using Machine Learning Flask Webapp
+# University Admission Prediction Using Machine Learning Flask Webapp
 
 This project is a Flask web application that predicts the likelihood of admission to a university based on various factors using machine learning. The application provides a user-friendly interface where users can enter their academic details and get an estimate of their chances of being accepted into a university.
 
@@ -18,9 +18,9 @@ This dataset contains under given important parameters which are considered main
 
 ■ University Rating ( out of 5 )
 
-■ Statement of Purpose -(SOP) Strength ( out of 5 )
+■ Statement of Purpose (SOP) Strength ( out of 5 )
 
-■ Letter of Recommendation-(LOR) Strength ( out of 5 
+■ Letter of Recommendation (LOR) Strength ( out of 5 )
 
 ■ Undergraduate GPA-CGPA ( out of 10 )
 
@@ -34,9 +34,9 @@ To run the flask web application and reproduce the results of this project, the 
 
 ◉ Python 3.9
 
-◉ Pandas
-
 ◉ NumPy
+
+◉ Pandas
 
 ◉ Scikit-learn
 
@@ -57,16 +57,20 @@ The project consists of the following files:
 4. app.py: Python script that includes the code for the Flask application.
 
 5. templates/: A directory that contains HTML templates for the user interface of the web application.
+
 ◉ index.html: The main template file that displays the input form and prediction results.
+
 ◉ base.html: The base template file that provides the common structure and layout for other templates.
+
 ◉ results.html: The template file that displays the admission prediction results.
 
 6. static/css: A directory that contains static assets such as CSS file for styling and interactivity.
+
 ◉  style.css: The CSS file that defines the styles and layout of the web application.
 
-4. requirements.txt: This file lists the external dependencies and their versions for a Python project, facilitating easy installation of the required packages.
+7. requirements.txt: This file lists the external dependencies and their versions for a Python project, facilitating easy installation of the required packages.
 
-6. README.md: Project documentation providing an overview of the project and instructions.
+8. README.md: Project documentation providing an overview of the project and instructions.
 
 ## Instructions
 
@@ -74,7 +78,7 @@ The project consists of the following files:
 
 2. Clone or download the project repository.
 
-3. Open the Predicting_Chance_of_Admission.ipynb file
+3. Open the Predicting_Chance_of_Admission.ipynb file.
 
 4. Follow the code to preprocess the data, train the ML model, evaluate its performance, and make predictions.
 
