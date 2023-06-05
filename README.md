@@ -58,7 +58,7 @@ The project consists of the following files:
 
 5. templates/: A directory that contains HTML templates for the user interface of the web application.
 
-◉ index.html: The main template file that displays the input form and prediction results.
+   ◉ index.html: The main template file that displays the input form and prediction results.
 
 ◉ base.html: The base template file that provides the common structure and layout for other templates.
 
