@@ -60,13 +60,13 @@ The project consists of the following files:
 
    ◉ index.html: The main template file that displays the input form and prediction results.
 
-◉ base.html: The base template file that provides the common structure and layout for other templates.
+   ◉ base.html: The base template file that provides the common structure and layout for other templates.
 
-◉ results.html: The template file that displays the admission prediction results.
+   ◉ results.html: The template file that displays the admission prediction results.
 
 6. static/css: A directory that contains static assets such as CSS file for styling and interactivity.
 
-◉  style.css: The CSS file that defines the styles and layout of the web application.
+   ◉  style.css: The CSS file that defines the styles and layout of the web application.
 
 7. requirements.txt: This file lists the external dependencies and their versions for a Python project, facilitating easy installation of the required packages.
 
@@ -103,4 +103,3 @@ The project consists of the following files:
 ## Conclusion
 
 The "University Admission Prediction System Using Machine Learning" is a Flask web application that predicts the likelihood of admission to a university based on various factors. It provides users with an intuitive interface to input their academic details and obtain an estimate of their chances of being accepted into a university.
-
